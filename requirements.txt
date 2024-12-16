@@ -1,0 +1,10 @@
+python-docx
+PyPDF2
+python-dotenv
+langchain
+faiss-cpu
+gradio
+langchain-google-genai
+requests
+langchain_core
+langchain_community
