@@ -84,13 +84,7 @@ Here are some example queries and how the system responds:
 
 ---
 
-## Future Enhancements
-- Add support for additional file formats (e.g., CSV, Excel).
-- Integrate a database for persistent storage of vector indices.
-- Enhance query routing with advanced intent detection.
-- Optimize vector store with hybrid search (e.g., BM25 + embeddings).
 
----
 
 
 
