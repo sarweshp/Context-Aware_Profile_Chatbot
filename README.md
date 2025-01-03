@@ -3,7 +3,7 @@
 ## Overview
 The **Profile Query System** is a chatbot application that extracts information from structured and unstructured documents related to a user’s profile, such as their resume, transcripts, publications, and reports. The chatbot uses a LangChain-based architecture and FAISS for vector search, enabling context-aware responses to user queries.
 
-This project is structured using object-oriented programming (OOP) principles, ensuring scalability, modularity, and maintainability.
+This project is structured using object-oriented programming (OOP) principles, ensuring scalability, modularity, and maintainability
 
 ---
 
